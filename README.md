@@ -1,2 +1,2 @@
-# Dove-Sep
+# Dove Templates
 Dove Content Analysis Template
